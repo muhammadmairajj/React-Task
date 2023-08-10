@@ -1,0 +1,15 @@
+.menu-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    padding: 20px;
+    border: 1px solid #000;
+}
+
+.menu-wrapper a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+}
